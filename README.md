@@ -2,7 +2,7 @@
 
 An end-to-end, locally runnable machine learning pipeline that classifies customers into **Poor**, **Standard**, or **Good** credit score categories. It covers data ingestion, preprocessing, multi-model training with cross-validation, experiment tracking with MLflow, an automated deployment approval gate, and a Streamlit web app for inference.
 
-**Live Demo:** [Open the Streamlit app]([https://your-app-name.streamlit.app](https://creditscoreprediction-nadine.streamlit.app/))
+**Live Demo:** [Open the Streamlit app](https://creditscoreprediction-nadine.streamlit.app/)
 
 ## Features
 
